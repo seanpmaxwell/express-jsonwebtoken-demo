@@ -1,6 +1,6 @@
 ## About
 
-CRUD app to demonstrate authentication using ExpressJS, Jsonwebtoken, and Bcrypt.
+CRUD app to demonstrate authentication using ExpressJS, Jsonwebtoken, and Bcrypt. Also contains examples of how to work with authentication for secure routes in Supertest. 
 
 
 
